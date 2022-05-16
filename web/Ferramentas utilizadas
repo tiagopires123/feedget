@@ -1,0 +1,8 @@
+Ferramentas:
+  Vite
+  Tailwindcss using PostCSS
+  tailwindcss-forms (oficial puglin)
+  tailwindcss-scrollbar (puglin)
+  Phosphor-icons (npm install phosphor-react)
+  Headlessui (popover acessibilidade)
+  html2canvas (npm install html2canvas)
