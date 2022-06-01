@@ -17,3 +17,4 @@ npm i -D jest @swc/core @swc/jest
 npm i @types/jest -D
 npm i cors
 npm i @types/cors -D
+npx tsc (converte o typescript para js criando a pasta dist)
