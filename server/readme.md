@@ -18,3 +18,4 @@ npm i @types/jest -D
 npm i cors
 npm i @types/cors -D
 npx tsc (converte o typescript para js criando a pasta dist)
+npx prisma migrate deploy && npm run start (start command no Railway para quando for criar as tabelas do banco e dar start)
