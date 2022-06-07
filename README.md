@@ -2,7 +2,6 @@
   <a href="#-layout">Layout</a> •
   <a href="#-technologies">Technologies</a> •
   <a href="#-getting-started">Getting started</a> •
-  <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -39,7 +38,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 **Clone the project and access the folder**
 
 ```bash
-git clone https://github.com/EliasGcf/feedget.git && cd feedget
+git clone git@github.com:tiagopires123/feedget.git && cd feedget
 ```
 
 **Follow the steps below**
